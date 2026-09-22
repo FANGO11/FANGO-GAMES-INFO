@@ -201,7 +201,7 @@ button { color: inherit; }
     display: none;
     margin-left: auto;
     width: 42px;
-    height: 21px;
+    height: 42px;
     padding: 9px;
     border: 1px solid var(--line);
     border-radius: 11px;
