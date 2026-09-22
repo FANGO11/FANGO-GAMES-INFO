@@ -16,7 +16,7 @@ const translations = {
             introduction: {
                 eyebrow: "Official Website",
                 title: "FANGO GAMES",
-                lead: "A journey through music, movement and worlds. Explore the projects, levels and updates behind our games.",
+                lead: "A journey through music, movement and worlds. Explore the projects, levels and updates behind FANGO GAMES.",
                 primary: "Explore Through The Wind",
                 secondary: "Explore Universe Line",
                 heading: "Welcome",
@@ -809,6 +809,7 @@ FANGO може оновлювати цю Угоду у зв'язку з:
 ---
 
 **© 2026 FANGO. Through The Wind / Universe Line. All rights reserved.**`
+            }
         }
     },
 
@@ -1215,6 +1216,7 @@ Prin instalarea, lansarea sau utilizarea Jocului, utilizatorul confirmă că a c
 ---
 
 **© 2026 FANGO. Through The Wind / Universe Line. Toate drepturile rezervate.**`
+            }
         }
     }
 };
