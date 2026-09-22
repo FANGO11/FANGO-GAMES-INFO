@@ -1580,8 +1580,8 @@ function projectAbout(project) {
         <section class="page">
             <div class="section-heading">
                 <span class="eyebrow">${data.aboutTitle}</span>
-                <h2>${data.aboutTitle}</h2>
-                <p>${data.detailText}</p>
+                <div class="eula-content">${markdownToHtml(data.detailText)}
+                <p>${data.aboutText}</p>
             </div>
             <div class="stats">
                 <div class="stat"><strong>TTW</strong><span>${translations[currentLanguage].pages.common.currentVersion}</span></div>
