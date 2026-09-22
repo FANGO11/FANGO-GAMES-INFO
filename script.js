@@ -23,6 +23,7 @@ const translations = {
                 text: "This website is the central home for Through The Wind and Universe Line. Choose a project above to discover its world."
             },
             ttw: {
+                versionText: 1.1.0.107.A,
                 aboutTitle: "Through The Wind",
                 aboutText: "Through The Wind is a rhythm-focused journey where movement, music and visual atmosphere come together.",
                 detailText: `# Through The Wind Production Staff
@@ -76,6 +77,7 @@ const translations = {
                 templateText: "Template resources and information for the project."
             },
             ul: {
+                versionText: 1.0.1.31.A,
                 aboutTitle: "Universe Line",
                 aboutText: "Universe Line is another journey in the same creative universe, built around music and visual exploration.",
                 detailText: ``,
@@ -485,6 +487,7 @@ If the user does not agree to the terms of this Agreement, they must cease using
                 text: "Цей сайт є центральним місцем для Through The Wind та Universe Line. Виберіть проєкт вище, щоб відкрити його світ."
             },
             ttw: {
+                versionText: 1.1.0.107.A,
                 aboutTitle: "Through The Wind",
                 aboutText: "Through The Wind — ритмічна подорож, де рух, музика та візуальна атмосфера поєднуються в одному світі.",
                 detailText: `# Команда розробки Through The Wind
@@ -538,6 +541,7 @@ If the user does not agree to the terms of this Agreement, they must cease using
                 templateText: "Ресурси та інформація про шаблон проєкту."
             },
             ul: {
+                versionText: 1.0.1.31.A,
                 aboutTitle: "Universe Line",
                 aboutText: "Universe Line — ще одна подорож у тому самому творчому всесвіті, побудована навколо музики та візуального дослідження.",
                 detailText: ``,
@@ -947,6 +951,7 @@ FANGO може оновлювати цю Угоду у зв'язку з:
                 text: "Acest site este centrul pentru Through The Wind și Universe Line. Alege un proiect de mai sus pentru a-i descoperi lumea."
             },
             ttw: {
+                versionText: 1.1.0.107.A,
                 aboutTitle: "Through The Wind",
                 aboutText: "Through The Wind este o călătorie bazată pe ritm, în care mișcarea, muzica și atmosfera vizuală se întâlnesc.",
                 detailText: `# Echipa de producție Through The Wind
@@ -1000,6 +1005,7 @@ FANGO може оновлювати цю Угоду у зв'язку з:
                 templateText: "Resurse și informații despre șablonul proiectului."
             },
             ul: {
+                versionText: 1.0.1.31.A,
                 aboutTitle: "Universe Line",
                 aboutText: "Universe Line este o altă călătorie din același univers creativ, construită în jurul muzicii și explorării vizuale.",
                 detailText: ``,
@@ -1584,11 +1590,11 @@ function projectAbout(project) {
                 <p>${data.aboutText}</p>
             </div>
             <div class="stats">
-                <div class="stat"><strong>TTW</strong><span>${translations[currentLanguage].pages.common.currentVersion}</span></div>
+                <div class="stat">${translations[currentLanguage].pages.ttw.aboutTitle}<strong></strong><span>${translations[currentLanguage].pages.common.currentVersion}</span></div>
                 <div class="stat"><strong>∞</strong><span>${translations[currentLanguage].pages.common.latest}</span></div>
-                <div class="stat"><strong>●</strong><span>${translations[currentLanguage].pages.common.available}</span></div>
+                <div class="stat"><strong>✔</strong><span>${translations[currentLanguage].pages.common.available}</span></div>
             </div>
-            <div class="eula-content"><h3>${translations[currentLanguage].pages.ttw.aboutTitle}</h3><p>${markdownToHtml(data.detailText)}</p></div>
+            <div class="eula-content"><p>${markdownToHtml(data.detailText)}</p></div>
         </section>
     `;
 }
