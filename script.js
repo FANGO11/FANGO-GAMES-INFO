@@ -1520,8 +1520,8 @@ function render(page) {
                     <p>${p.introduction.text}</p>
                 </div>
                 <div class="cards">
-                    <article class="card"><h3>${p.ttw.aboutTitle}</h3><p>${p.ttw.aboutText}</p></article>
-                    <article class="card"><h3>${p.ul.aboutTitle}</h3><p>${p.ul.aboutText}</p></article>
+                    <article class="card"><h3>${p.ttw.aboutTitle}</h3><p>${p.ttw.detailText}</p></article>
+                    <article class="card"><h3>${p.ul.aboutTitle}</h3><p>${p.ul.detailText}</p></article>
                     <article class="card"><h3>${p.ttw.templateTitle}</h3><p>${p.ttw.templateText}</p></article>
                 </div>
             </section>
