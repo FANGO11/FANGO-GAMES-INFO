@@ -94,7 +94,8 @@ const translations = {
                 noUpdates: "Update history will appear here.",
                 levelsPlaceholder: "Level information will appear here as levels are added.",
                 eulaTitle: "End User License Agreement",
-                eulaText: `# END-USER LICENSE AGREEMENT (EULA)
+                eulaText: `
+# END-USER LICENSE AGREEMENT (EULA)
 
 ## THROUGH THE WIND / UNIVERSE LINE
 
@@ -555,7 +556,8 @@ If the user does not agree to the terms of this Agreement, they must cease using
                 noUpdates: "Історія оновлень з'явиться тут.",
                 levelsPlaceholder: "Інформація про рівні з'являтиметься тут у міру їх додавання.",
                 eulaTitle: "Ліцензійна угода кінцевого користувача",
-                eulaText: `# ЛІЦЕНЗІЙНА УГОДА КІНЦЕВОГО КОРИСТУВАЧА (EULA)
+                eulaText: `
+# ЛІЦЕНЗІЙНА УГОДА КІНЦЕВОГО КОРИСТУВАЧА (EULA)
 
 ## THROUGH THE WIND / UNIVERSE LINE
 
@@ -1016,7 +1018,8 @@ FANGO може оновлювати цю Угоду у зв'язку з:
                 noUpdates: "Istoricul actualizărilor va apărea aici.",
                 levelsPlaceholder: "Informațiile despre niveluri vor apărea aici pe măsură ce acestea sunt adăugate.",
                 eulaTitle: "Acord de licență pentru utilizatorul final",
-                eulaText: `# ACORD DE LICENȚĂ PENTRU UTILIZATORUL FINAL (EULA)
+                eulaText: `
+# ACORD DE LICENȚĂ PENTRU UTILIZATORUL FINAL (EULA)
 
 ## THROUGH THE WIND / UNIVERSE LINE
 
