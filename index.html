@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Through The Wind — official website.">
+    <title>Through The Wind</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app">
+        <header class="site-header">
+            <a class="brand" href="#introduction" aria-label="Through The Wind home">
+                <span class="brand-mark">TTW</span>
+                <span class="brand-name">Through The Wind</span>
+            </a>
+
+            <button class="menu-toggle" id="menuToggle" type="button"
+                    aria-label="Open navigation" aria-expanded="false">
+                <span></span><span></span><span></span>
+            </button>
+
+            <nav class="main-nav" id="mainNav" aria-label="Main navigation">
+                <button class="nav-item active" data-page="introduction" data-i18n="nav.introduction">Introduction</button>
+
+                <div class="nav-group">
+                    <button class="nav-item nav-parent" data-page="ttw-about" data-group="ttw"
+                            aria-expanded="false">
+                        <span data-i18n="nav.ttw">Through The Wind</span><span class="chevron">⌄</span>
+                    </button>
+                    <div class="submenu">
+                        <button data-page="ttw-about" data-i18n="nav.about">About</button>
+                        <button data-page="ttw-updates" data-i18n="nav.updateLogs">Update Logs</button>
+                        <button data-page="ttw-levels" data-i18n="nav.levels">Levels</button>
+                    </div>
+                </div>
+
+                <div class="nav-group">
+                    <button class="nav-item nav-parent" data-page="ul-about" data-group="ul"
+                            aria-expanded="false">
+                        <span data-i18n="nav.universeLine">Universe Line</span><span class="chevron">⌄</span>
+                    </button>
+                    <div class="submenu">
+                        <button data-page="ul-about" data-i18n="nav.about">About</button>
+                        <button data-page="ul-updates" data-i18n="nav.updateLogs">Update Logs</button>
+                        <button data-page="ul-levels" data-i18n="nav.levels">Levels</button>
+                    </div>
+                </div>
+
+                <button class="nav-item" data-page="template" data-i18n="nav.template">Template</button>
+                <button class="nav-item" data-page="eula" data-i18n="nav.eula">EULA</button>
+
+                <div class="language">
+                    <button class="language-button" id="languageButton" type="button"
+                            aria-haspopup="true" aria-expanded="false">
+                        <span>🌐</span><span id="languageLabel">English</span><span class="chevron">⌄</span>
+                    </button>
+                    <div class="language-menu" id="languageMenu">
+                        <button data-language="en">🇬🇧 English</button>
+                        <button data-language="uk">🇺🇦 Українська</button>
+                        <button data-language="ro">🇷🇴 Română</button>
+                    </div>
+                </div>
+            </nav>
+        </header>
+
+        <main id="content" class="content" tabindex="-1"></main>
+
+        <footer class="site-footer">
+            <span>© <span id="year"></span> Through The Wind</span>
+            <span data-i18n="footer.made">Made for the journey.</span>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
