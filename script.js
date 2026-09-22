@@ -833,7 +833,7 @@ FANGO може оновлювати цю Угоду у зв'язку з:
                 lead: "O călătorie prin muzică, mișcare și lumi. Descoperă proiectele, nivelurile și actualizările FANGO GAMES.",
                 primary: "Descoperă Through The Wind",
                 secondary: "Descoperă Universe Line",
-                heading: "Bine ai venit",
+                heading: "Bine ați venit",
                 text: "Acest site este centrul pentru Through The Wind și Universe Line. Alege un proiect de mai sus pentru a-i descoperi lumea."
             },
             ttw: {
