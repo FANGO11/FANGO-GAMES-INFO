@@ -1352,16 +1352,16 @@ function render(page) {
             </section>
         `,
 
-        eula: `
-            <section class="page prose">
-                <span class="eyebrow">EULA</span>
-                <h2>${p.common.eulaTitle}</h2>
-                <p>${p.common.eulaText}</p>
-                <div class="notice">
-                    ${p.common.status}: ${p.common.comingSoon}
-                </div>
-            </section>
-        `
+eula: `
+    <section class="page prose">
+        <span class="eyebrow">EULA</span>
+        <h2>${p.common.eulaTitle}</h2>
+
+        <div class="eula-content">
+            ${markdownToHtml(p.common.eulaText)}
+        </div>
+    </section>
+`,
     };
 
     content.innerHTML = templates[page] || templates.introduction;
