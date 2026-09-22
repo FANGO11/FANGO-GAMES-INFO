@@ -16,7 +16,7 @@ const translations = {
             introduction: {
                 eyebrow: "Official Website",
                 title: "FANGO GAMES",
-                lead: "A journey through music, movement and worlds. Explore the projects, levels and updates behind TTW.",
+                lead: "A journey through music, movement and worlds. Explore the projects, levels and updates behind our games.",
                 primary: "Explore Through The Wind",
                 secondary: "Explore Universe Line",
                 heading: "Welcome",
