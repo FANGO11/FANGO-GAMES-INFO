@@ -31,7 +31,7 @@ const translations = {
 ## Project Leader:
 **FANGO**
 
-## Technical Support: **Dju de la va, LightStudios, SUNJY, NtyElias111, ReDark Technology, Bell, Marios1Gr, TCT,**
+## Technical Support: **Dju de la va, Sushi, SUNJY, NtyElias111, ReDark Technology, Bell, Marios1Gr, TCT,**
 
 ## Other Support: **Bezker, Lesede, 杨哥我来了, Neon, UnaiYT**
 
@@ -483,7 +483,7 @@ If the user does not agree to the terms of this Agreement, they must cease using
 ## Керівник проєкту:
 **FANGO**
 
-## Технічна підтримка: **Dju de la va, LightStudios, SUNJY, NtyElias111, ReDark Technology, Bell, Marios1Gr, TCT,**
+## Технічна підтримка: **Dju de la va, Sushi, SUNJY, NtyElias111, ReDark Technology, Bell, Marios1Gr, TCT,**
 
 ## Інша підтримка: **Bezker, Lesede, 杨哥我来了, Neon, UnaiYT**
 
@@ -935,7 +935,7 @@ FANGO може оновлювати цю Угоду у зв'язку з:
 ## Lider de proiect:
 **FANGO**
 
-## Suport tehnic: **Dju de la va, LightStudios, SUNJY, NtyElias111, ReDark Technology, Bell, Marios1Gr, TCT,**
+## Suport tehnic: **Dju de la va, Sushi, SUNJY, NtyElias111, ReDark Technology, Bell, Marios1Gr, TCT,**
 
 ## Alt suport: **Bezker, Lesede, 杨哥我来了, Neon, UnaiYT,**
 
@@ -1554,7 +1554,7 @@ function projectAbout(project) {
                 <p>${data.aboutText}</p>
             </div>
             <div class="stats">
-                <div class="stat">${translations[currentLanguage].pages.ttw.aboutTitle}<strong></strong><span>${translations[currentLanguage].pages.common.currentVersion}</span></div>
+                <div class="stat">${data.aboutTitle}<strong></strong><span>${translations[currentLanguage].pages.common.currentVersion}</span></div>
                 <div class="stat"><strong>${data.versionText}</strong><span>${translations[currentLanguage].pages.common.latest}</span></div>
                 <div class="stat"><strong>✔</strong><span>${translations[currentLanguage].pages.common.available}</span></div>
             </div>
