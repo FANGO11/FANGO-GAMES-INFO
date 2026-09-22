@@ -471,6 +471,53 @@ h3 {
     }
 }
 
+.eula-content {
+    margin-top: 40px;
+    color: var(--text);
+}
+
+.eula-content h1 {
+    font-size: 42px;
+    line-height: 1.1;
+    margin: 0 0 28px;
+}
+
+.eula-content h3 {
+    font-size: 26px;
+    line-height: 1.3;
+    margin: 48px 0 18px;
+}
+
+.eula-content h4 {
+    font-size: 20px;
+    margin: 32px 0 14px;
+}
+
+.eula-content p {
+    margin: 0 0 20px;
+    line-height: 1.8;
+}
+
+.eula-content ul {
+    margin: 0 0 24px;
+    padding-left: 28px;
+}
+
+.eula-content li {
+    margin-bottom: 10px;
+    line-height: 1.7;
+}
+
+.eula-content strong {
+    font-weight: 700;
+}
+
+.eula-content hr {
+    border: 0;
+    border-top: 1px solid rgba(255,255,255,.08);
+    margin: 36px 0;
+}
+
 @media (max-width: 620px) {
     .content {
         padding-top: 50px;
