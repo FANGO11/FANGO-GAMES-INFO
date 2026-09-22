@@ -25,6 +25,49 @@ const translations = {
             ttw: {
                 aboutTitle: "Through The Wind",
                 aboutText: "Through The Wind is a rhythm-focused journey where movement, music and visual atmosphere come together.",
+                detailText: `# Through The Wind Production Staff
+
+## Project Leader:
+**FANGO**
+
+## Technical Support:
+**Dju de la va**  
+**LightStudios, SUNJY**  
+**NtyElias111**  
+**ReDark Technology**  
+**Bell**  
+**Marios1Gr**  
+**TCT**
+
+## Other Support:
+**Bezker**  
+**Lesede**  
+**杨哥我来了**  
+**Neon**  
+**UnaiYT**
+
+## Translators:
+
+**English** — FANGO  
+**Ukrainian** — FANGO  
+**Polish** — Bezker  
+**Traditional Chinese** — 杨哥我来了 && Neon  
+**Simplified Chinese** — 杨哥我来了 && Neon  
+**Spanish** — UnaiYT  
+**Romanian** — FANGO  
+**Vietnamese** — SplashTree  
+**Indonesian** — rvn  
+**Filipino** — NtyElias  
+**Thai** — Banana Oreo  
+**Belarusian** — Wextikit  
+**German** — ttt  
+**Greek** — Sylva  
+**Arabic** — Jisa  
+**Kazakh** — Icehot & Дух
+
+## Crown Sounds: **ttt**
+
+## Crown Icon Design: **SplashTree**`,
                 updateTitle: "Update Logs",
                 updateText: "Keep track of new features, fixes and content added to Through The Wind.",
                 levelsTitle: "Levels",
@@ -35,6 +78,7 @@ const translations = {
             ul: {
                 aboutTitle: "Universe Line",
                 aboutText: "Universe Line is another journey in the same creative universe, built around music and visual exploration.",
+                detailText: ``,
                 updateTitle: "Update Logs",
                 updateText: "See what has changed in Universe Line across its updates.",
                 levelsTitle: "Levels",
@@ -442,6 +486,49 @@ If the user does not agree to the terms of this Agreement, they must cease using
             ttw: {
                 aboutTitle: "Through The Wind",
                 aboutText: "Through The Wind — ритмічна подорож, де рух, музика та візуальна атмосфера поєднуються в одному світі.",
+                detailText: `# Команда розробки Through The Wind
+
+## Керівник проєкту:
+**FANGO**
+
+## Технічна підтримка:
+**Dju de la va**  
+**LightStudios, SUNJY**  
+**NtyElias111**  
+**ReDark Technology**  
+**Bell**  
+**Marios1Gr**  
+**TCT**
+
+## Інша підтримка:
+**Bezker**  
+**Lesede**  
+**杨哥我来了**  
+**Neon**  
+**UnaiYT**
+
+## Перекладачі:
+
+**Англійська** — FANGO  
+**Українська** — FANGO  
+**Польська** — Bezker  
+**Традиційна Китайська** — 杨哥我来了 && Neon  
+**Спрощена Китайська** — 杨哥我来了 && Neon  
+**Іспанська** — UnaiYT  
+**Румунська** — FANGO  
+**В'єтнамська** — SplashTree  
+**Індонезійська** — rvn  
+**Філіппінська** — NtyElias  
+**Тайська** — Banana Oreo  
+**Білоруська** — Wextikit  
+**Німецька** — ttt  
+**Грецька** — Sylva  
+**Арабська** — Jisa  
+**Казахська** — Icehot & Дух  
+
+## Звуки Crown: **ttt**
+
+## Дизайн іконки Crown: **SplashTree**`,
                 updateTitle: "Журнал оновлень",
                 updateText: "Тут можна стежити за новими функціями, виправленнями та контентом Through The Wind.",
                 levelsTitle: "Рівні",
@@ -452,6 +539,7 @@ If the user does not agree to the terms of this Agreement, they must cease using
             ul: {
                 aboutTitle: "Universe Line",
                 aboutText: "Universe Line — ще одна подорож у тому самому творчому всесвіті, побудована навколо музики та візуального дослідження.",
+                detailText: ``,
                 updateTitle: "Журнал оновлень",
                 updateText: "Переглядайте зміни, які з'являлися в Universe Line з оновленнями.",
                 levelsTitle: "Рівні",
@@ -859,6 +947,49 @@ FANGO може оновлювати цю Угоду у зв'язку з:
             ttw: {
                 aboutTitle: "Through The Wind",
                 aboutText: "Through The Wind este o călătorie bazată pe ritm, în care mișcarea, muzica și atmosfera vizuală se întâlnesc.",
+                detailText: `# Echipa de producție Through The Wind
+
+## Lider de proiect:
+**FANGO**
+
+## Suport tehnic:
+**Dju de la va**  
+**LightStudios, SUNJY**  
+**NtyElias111**  
+**ReDark Technology**  
+**Bell**  
+**Marios1Gr**  
+**TCT**
+
+## Alt suport:
+**Bezker**  
+**Lesede**  
+**杨哥我来了**  
+**Neon**  
+**UnaiYT**
+
+## Traducători:
+
+**Engleză** — FANGO  
+**Ucraineană** — FANGO  
+**Poloneză** — Bezker  
+**Chineză tradițională** — 杨哥我来了 && Neon  
+**Chineză simplificată** — 杨哥我来了 && Neon  
+**Spaniolă** — UnaiYT  
+**Română** — FANGO  
+**Vietnameză** — SplashTree  
+**Indoneziană** — rvn  
+**Filipineză** — NtyElias  
+**Thailandeză** — Banana Oreo  
+**Belarusă** — Wextikit  
+**Germană** — ttt  
+**Greacă** — Sylva  
+**Arabă** — Jisa  
+**Kazahă** — Icehot & Дух  
+
+## Sunete Crown: **ttt**
+
+## Designul pictogramei Crown: **SplashTree**`,
                 updateTitle: "Jurnal actualizări",
                 updateText: "Urmărește funcțiile noi, remedierile și conținutul adăugat în Through The Wind.",
                 levelsTitle: "Niveluri",
@@ -869,6 +1000,7 @@ FANGO може оновлювати цю Угоду у зв'язку з:
             ul: {
                 aboutTitle: "Universe Line",
                 aboutText: "Universe Line este o altă călătorie din același univers creativ, construită în jurul muzicii și explorării vizuale.",
+                detailText: ``,
                 updateTitle: "Jurnal actualizări",
                 updateText: "Vezi ce s-a schimbat în Universe Line de-a lungul actualizărilor.",
                 levelsTitle: "Niveluri",
