@@ -422,8 +422,8 @@ If the user does not agree to the terms of this Agreement, they must cease using
         pages: {
             introduction: {
                 eyebrow: "Офіційний сайт",
-                title: "Through The Wind",
-                lead: "Подорож крізь музику, рух і світи. Досліджуйте проєкти, рівні та оновлення TTW.",
+                title: "FANGO GAMES",
+                lead: "Подорож крізь музику, рух і світи. Досліджуйте проєкти, рівні та оновлення FANGO GAMES.",
                 primary: "Переглянути Through The Wind",
                 secondary: "Переглянути Universe Line",
                 heading: "Ласкаво просимо",
@@ -829,8 +829,8 @@ FANGO може оновлювати цю Угоду у зв'язку з:
         pages: {
             introduction: {
                 eyebrow: "Site oficial",
-                title: "Through The Wind",
-                lead: "O călătorie prin muzică, mișcare și lumi. Descoperă proiectele, nivelurile și actualizările TTW.",
+                title: "FANGO GAMES",
+                lead: "O călătorie prin muzică, mișcare și lumi. Descoperă proiectele, nivelurile și actualizările FANGO GAMES.",
                 primary: "Descoperă Through The Wind",
                 secondary: "Descoperă Universe Line",
                 heading: "Bine ai venit",
