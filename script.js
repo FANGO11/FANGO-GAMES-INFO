@@ -944,8 +944,8 @@ FANGO може оновлювати цю Угоду у зв'язку з:
 **Engleză** — FANGO  
 **Ucraineană** — FANGO  
 **Poloneză** — Bezker  
-**Chineză tradițională** — 杨哥我来了 && Neon  
-**Chineză simplificată** — 杨哥我来了 && Neon  
+**Chineză Tradițională** — 杨哥我来了 && Neon  
+**Chineză Simplificată** — 杨哥我来了 && Neon  
 **Spaniolă** — UnaiYT  
 **Română** — FANGO  
 **Vietnameză** — SplashTree  
