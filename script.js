@@ -1446,6 +1446,36 @@ function navigate(page) {
     }
 }
 
+function markdownToHtml(markdown) {
+    return markdown
+        .replace(/^### (.*)$/gm, "<h4>$1</h4>")
+        .replace(/^## (.*)$/gm, "<h3>$1</h3>")
+        .replace(/^# (.*)$/gm, "<h1>$1</h1>")
+        .replace(/^\-\s+(.*)$/gm, "<li>$1</li>")
+        .replace(/(<li>.*<\/li>)/gs, "<ul>$1</ul>")
+        .replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>")
+        .replace(/^---$/gm, "<hr>")
+        .split(/\n\s*\n/)
+        .map(block => {
+            block = block.trim();
+
+            if (!block) return "";
+
+            if (
+                block.startsWith("<h1>") ||
+                block.startsWith("<h3>") ||
+                block.startsWith("<h4>") ||
+                block.startsWith("<ul>") ||
+                block.startsWith("<hr>")
+            ) {
+                return block;
+            }
+
+            return `<p>${block.replace(/\n/g, "<br>")}</p>`;
+        })
+        .join("");
+}
+
 document.addEventListener("click", (event) => {
     const pageButton = event.target.closest("[data-page]");
     const groupParent = event.target.closest(".nav-parent");
