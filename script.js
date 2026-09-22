@@ -1554,7 +1554,7 @@ function projectAbout(project) {
                 <p>${data.aboutText}</p>
             </div>
             <div class="stats">
-                <div class="stat">${data.aboutTitle}<strong></strong><span>${translations[currentLanguage].pages.common.currentVersion}</span></div>
+                <div class="stat"><strong>${data.aboutTitle}</strong><span>${translations[currentLanguage].pages.common.currentVersion}</span></div>
                 <div class="stat"><strong>${data.versionText}</strong><span>${translations[currentLanguage].pages.common.latest}</span></div>
                 <div class="stat"><strong>✔</strong><span>${translations[currentLanguage].pages.common.available}</span></div>
             </div>
