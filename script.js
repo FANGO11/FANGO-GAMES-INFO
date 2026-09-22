@@ -1580,7 +1580,7 @@ function projectAbout(project) {
         <section class="page">
             <div class="section-heading">
                 <span class="eyebrow">${data.aboutTitle}</span>
-                <div class="eula-content">${markdownToHtml(data.detailText)}
+                <h2>${data.aboutTitle}</h2>
                 <p>${data.aboutText}</p>
             </div>
             <div class="stats">
@@ -1588,7 +1588,7 @@ function projectAbout(project) {
                 <div class="stat"><strong>∞</strong><span>${translations[currentLanguage].pages.common.latest}</span></div>
                 <div class="stat"><strong>●</strong><span>${translations[currentLanguage].pages.common.available}</span></div>
             </div>
-            <div class="card"><h3>${translations[currentLanguage].pages.ttw.aboutTitle}</h3><p>${data.aboutText}</p></div>
+            <div class="eula-content"><h3>${translations[currentLanguage].pages.ttw.aboutTitle}</h3><p>${markdownToHtml(data.detailText)}</p></div>
         </section>
     `;
 }
