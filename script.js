@@ -107,7 +107,7 @@ const translations = {
 
 ## 1. GENERAL PROVISIONS
 
-This End-User License Agreement (the **“Agreement”**) governs the use of the video game **Through The Wind / Universe Line** (the **“Game”**), developed and/or distributed by **FANGO** (the **“Rights Holder”**).
+This End-User License Agreement governs the use of the video game **Through The Wind / Universe Line**, developed and/or distributed by **FANGO**.
 
 By downloading, installing, copying, launching, or otherwise using the Game, the user confirms that they have read this Agreement and agree to comply with its terms to the extent permitted by applicable law.
 
@@ -568,7 +568,7 @@ If the user does not agree to the terms of this Agreement, they must cease using
 
 ## 1. ЗАГАЛЬНІ ПОЛОЖЕННЯ
 
-Ця Ліцензійна угода кінцевого користувача (далі — **«Угода»**) регулює використання відеогри **Through The Wind / Universe Line** (далі — **«Гра»**), розробленої та/або поширюваної **FANGO** (далі — **«Правовласник»**).
+Ця Ліцензійна угода кінцевого користувача регулює використання відеогри **Through The Wind / Universe Line**, розробленої та/або поширюваної **FANGO**.
 
 Завантажуючи, встановлюючи, копіюючи, запускаючи або іншим чином використовуючи Гру, користувач підтверджує, що ознайомився з цією Угодою та погоджується дотримуватися її умов у межах, дозволених застосовним законодавством.
 
@@ -1029,7 +1029,7 @@ FANGO може оновлювати цю Угоду у зв'язку з:
 
 ## 1. DISPOZIȚII GENERALE
 
-Prezentul Acord de Licență pentru Utilizatorul Final (denumit în continuare **„Acordul”**) reglementează utilizarea jocului video **Through The Wind / Universe Line** (denumit în continuare **„Jocul”**), dezvoltat și/sau distribuit de **FANGO** (denumit în continuare **„Titularul drepturilor”**).
+Prezentul Acord de Licență pentru Utilizatorul Final reglementează utilizarea jocului video **Through The Wind / Universe Line**, dezvoltat și/sau distribuit de **FANGO**.
 
 Prin descărcarea, instalarea, copierea, lansarea sau utilizarea în orice alt mod a Jocului, utilizatorul confirmă că a citit prezentul Acord și este de acord să respecte condițiile acestuia, în măsura permisă de legislația aplicabilă.
 
