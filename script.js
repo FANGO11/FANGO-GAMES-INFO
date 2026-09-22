@@ -345,7 +345,17 @@ The grant of a license does not transfer ownership of any component of the Game 
 
 ---
 
-## 17. TRADEMARKS AND FANGO BRAND
+## 17 THIRD-PARTY MATERIALS AND COMPONENTS
+
+The Game may contain third-party software, graphics, audiovisual materials, and other materials. The rights to such materials belong to their respective rights holders and are used by FANGO in accordance with applicable licenses or other lawful grounds.
+
+This Agreement does not transfer to the user or otherwise modify any rights held by third parties in relation to such materials.
+
+If a separate third-party license establishes different terms for the use of a particular component, those terms shall apply to that component to the extent provided by the applicable license.
+
+---
+
+## 18. TRADEMARKS AND FANGO BRAND
 
 The name **FANGO**, FANGO logos, the names Through The Wind and Universe Line, and associated logos and designations may constitute intellectual property of their respective rights holders.
 
@@ -353,7 +363,7 @@ The user is not granted the right to use such designations in a manner that crea
 
 ---
 
-## 18. GOVERNING LAW AND CONSUMER RIGHTS
+## 19. GOVERNING LAW AND CONSUMER RIGHTS
 
 This Agreement shall apply subject to the laws applicable to it.
 
@@ -365,7 +375,7 @@ In the event of a conflict between this Agreement and a mandatory provision of a
 
 ---
 
-## 19. CHANGES TO THIS AGREEMENT
+## 20. CHANGES TO THIS AGREEMENT
 
 FANGO may update this Agreement in connection with:
 
@@ -382,7 +392,7 @@ Changes to this Agreement shall not deprive the user of mandatory rights that ca
 
 ---
 
-## 20. CONTACT
+## 21. CONTACT
 
 **Rights Holder:** FANGO  
 **Product:** Through The Wind / Universe Line  
@@ -393,7 +403,7 @@ For questions regarding licensing, copyright, official distribution sources, or 
 
 ---
 
-## 21. ACCEPTANCE OF THE AGREEMENT
+## 22. ACCEPTANCE OF THE AGREEMENT
 
 By installing, launching, or using the Game, the user confirms that they have read this Agreement and agree to its terms to the extent permitted by applicable law.
 
@@ -752,7 +762,17 @@ FANGO може випускати:
 
 ---
 
-## 17. ТОРГОВЕЛЬНІ МАРКИ ТА БРЕНД FANGO
+## 17 СТОРОННІ МАТЕРІАЛИ ТА КОМПОНЕНТИ
+
+Гра може містити програмне забезпечення, графічні, аудіовізуальні та інші матеріали, розроблені або надані третіми особами. Права на такі матеріали належать відповідним правовласникам і використовуються FANGO відповідно до застосовних ліцензій або інших законних підстав.
+
+Ця Угода не передає користувачу та не змінює права, що належать третім особам щодо таких матеріалів.
+
+У разі якщо окрема ліцензія третьої сторони встановлює інші умови використання відповідного компонента, такі умови застосовуються до цього компонента в межах, передбачених відповідною ліцензією.
+
+---
+
+## 18. ТОРГОВЕЛЬНІ МАРКИ ТА БРЕНД FANGO
 
 Назва **FANGO**, логотипи FANGO, назви Through The Wind та Universe Line, а також пов'язані з ними логотипи та позначення можуть бути об'єктами інтелектуальної власності відповідних правовласників.
 
@@ -760,7 +780,7 @@ FANGO може випускати:
 
 ---
 
-## 18. ЗАСТОСОВНЕ ЗАКОНОДАВСТВО ТА ПРАВА СПОЖИВАЧА
+## 19. ЗАСТОСОВНЕ ЗАКОНОДАВСТВО ТА ПРАВА СПОЖИВАЧА
 
 Ця Угода застосовується з урахуванням законодавства, яке має до неї застосування.
 
@@ -772,7 +792,7 @@ FANGO може випускати:
 
 ---
 
-## 19. ЗМІНИ ДО УГОДИ
+## 20. ЗМІНИ ДО УГОДИ
 
 FANGO може оновлювати цю Угоду у зв'язку з:
 
@@ -789,7 +809,7 @@ FANGO може оновлювати цю Угоду у зв'язку з:
 
 ---
 
-## 20. КОНТАКТ
+## 21. КОНТАКТ
 
 **Правовласник:** FANGO  
 **Продукт:** Through The Wind / Universe Line  
@@ -800,7 +820,7 @@ FANGO може оновлювати цю Угоду у зв'язку з:
 
 ---
 
-## 21. ПРИЙНЯТТЯ УГОДИ
+## 22. ПРИЙНЯТТЯ УГОДИ
 
 Встановлюючи, запускаючи або використовуючи Гру, користувач підтверджує, що ознайомився з цією Угодою та погоджується з її умовами в межах, дозволених застосовним законодавством.
 
@@ -1159,7 +1179,17 @@ Acordarea licenței nu transferă utilizatorului dreptul de proprietate asupra n
 
 ---
 
-## 17. MĂRCI ȘI BRANDUL FANGO
+## 17 MATERIALE ȘI COMPONENTE PROVENITE DE LA TERȚI
+
+Jocul poate conține software, materiale grafice, materiale audiovizuale și alte materiale furnizate sau dezvoltate de terți. Drepturile asupra acestor materiale aparțin titularilor de drepturi corespunzători și sunt utilizate de FANGO în conformitate cu licențele aplicabile sau cu alte temeiuri legale.
+
+Prezentul Acord nu transferă utilizatorului și nu modifică în alt mod drepturile deținute de terți cu privire la astfel de materiale.
+
+În cazul în care o licență separată a unui terț stabilește condiții diferite pentru utilizarea unei anumite componente, aceste condiții se aplică respectivei componente în măsura prevăzută de licența aplicabilă.
+
+---
+
+## 18. MĂRCI ȘI BRANDUL FANGO
 
 Denumirea **FANGO**, siglele FANGO, denumirile Through The Wind și Universe Line, precum și siglele și denumirile asociate pot constitui proprietatea intelectuală a titularilor de drepturi corespunzători.
 
@@ -1167,7 +1197,7 @@ Utilizatorului nu i se acordă dreptul de a utiliza aceste denumiri într-un mod
 
 ---
 
-## 18. LEGISLAȚIA APLICABILĂ ȘI DREPTURILE CONSUMATORULUI
+## 19. LEGISLAȚIA APLICABILĂ ȘI DREPTURILE CONSUMATORULUI
 
 Prezentul Acord se aplică sub rezerva legislației care îi este aplicabilă.
 
@@ -1179,7 +1209,7 @@ Nicio prevedere a prezentului Acord nu are scopul de a priva consumatorul de dre
 
 ---
 
-## 19. MODIFICAREA PREZENTULUI ACORD
+## 20. MODIFICAREA PREZENTULUI ACORD
 
 FANGO poate actualiza prezentul Acord în legătură cu:
 
@@ -1196,7 +1226,7 @@ Modificările prezentului Acord nu trebuie să priveze utilizatorul de drepturi 
 
 ---
 
-## 20. CONTACT
+## 21. CONTACT
 
 **Titularul drepturilor:** FANGO  
 **Produs:** Through The Wind / Universe Line  
@@ -1207,7 +1237,7 @@ Pentru întrebări privind licența, drepturile de autor, sursele oficiale de di
 
 ---
 
-## 21. ACCEPTAREA ACORDULUI
+## 22. ACCEPTAREA ACORDULUI
 
 Prin instalarea, lansarea sau utilizarea Jocului, utilizatorul confirmă că a citit prezentul Acord și este de acord cu termenii acestuia, în măsura permisă de legislația aplicabilă.
 
