@@ -1787,7 +1787,7 @@ function projectGallery(project) {
             <div class="gallery">
                 ${galleryImages.map((image, index) => `
                     <button class="gallery-item">
-                        <img src= image
+                        <img src= "${image}"
                              alt="Screenshot ${index + 1}">
                     </button>
                 `).join("")}
