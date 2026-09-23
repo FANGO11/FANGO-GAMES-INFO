@@ -64,6 +64,8 @@ const translations = {
                 updateTitle: "Update Logs",
                 updateText: `# 1.1.0 A
 
+06.09.2026
+
 - Added New Levels: DataErr0r, Lone Traveler.
 - Added Slither Skin.
 - Changed GUI: Main, Settings, Skins, Achievement, Revive, Game Over.
@@ -105,6 +107,8 @@ const translations = {
 **Romanian** — FANGO`,
                 updateTitle: "Update Logs",
                 updateText: `# V 1.0.1 A
+
+11.05.2025
 
 - Added a new level: **Peaceful Stagnation**.
 - Added **Keymapping** and new languages.
@@ -554,6 +558,8 @@ If the user does not agree to the terms of this Agreement, they must cease using
                 updateTitle: "Журнал оновлень",
                 updateText: `# 1.1.0 A
 
+06.09.2026
+
 - Додано нові рівні: **DataErr0r**, **Самотній Мандрівник**.
 - Додано скін **Черв'як**.
 - Змінено GUI: **Головне Меню, Налаштування, Скіни, Досягнення, Відродження, Кінець Гри**.
@@ -595,6 +601,8 @@ If the user does not agree to the terms of this Agreement, they must cease using
 **Румунська** — FANGO`,
                 updateTitle: "Журнал оновлень",
                 updateText: `# V 1.0.1 A
+
+11.05.2025
 
 - Додано новий рівень: **Peaceful Stagnation**.
 - Додано **налаштування клавіш** та нові мови.
@@ -1044,6 +1052,8 @@ FANGO може оновлювати цю Угоду у зв'язку з:
                 updateTitle: "Jurnal actualizări",
                 updateText: `# 1.1.0 A
 
+06.09.2026
+
 - Au fost adăugate niveluri noi: **DataErr0r**, **Călător Singuratic**.
 - A fost adăugat skin-ul **Vierme**.
 - Interfața GUI a fost modificată: **Meniu principal, Setări, Skin-uri, Realizări, Reînviere, Joc Încheiat**.
@@ -1085,6 +1095,8 @@ FANGO може оновлювати цю Угоду у зв'язку з:
 **Română** — FANGO`,
                 updateTitle: "Jurnal actualizări",
                 updateText: `# V 1.0.1 A
+                
+11.05.2025
 
 - A fost adăugat un nivel nou: **Peaceful Stagnation**.
 - Au fost adăugate **configurarea tastelor** și limbi noi.
