@@ -1921,8 +1921,8 @@ eula: `
     });
 
     document.title = page === "introduction"
-        ? "Through The Wind"
-        : `${page.replace("-", " ")} — Through The Wind`;
+        ? "FANGO GAMES"
+        : `${page.replace("-", " ")} — FANGO GAMES`;
 }
 
 function projectAbout(project) {
