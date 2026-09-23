@@ -28,13 +28,16 @@ const translations = {
                 aboutText: "Through The Wind is a rhythm-focused journey where movement, music and visual atmosphere come together.",
                 detailText: `# Through The Wind Production Staff
 
-## Project Leader:## **FANGO**
+## Project Leader:
+**FANGO**
 
-## Technical Support:## **Dju de la va, Sushi, SUNJY, NtyElias111, ReDark Technology, Bell, Marios1Gr, TCT,**
+## Technical Support:
+**Dju de la va, Sushi, SUNJY, NtyElias111, ReDark Technology, Bell, Sylva, TCT,**
 
-## Other Support:## **Bezker, Lesede, 杨哥我来了, Neon, UnaiYT**
+## Other Support:
+**Bezker, Lesede, 杨哥我来了, Neon, UnaiYT**
 
-## Translators:##
+## Translators:
 
 **English** — FANGO  
 **Ukrainian** — FANGO  
@@ -53,9 +56,11 @@ const translations = {
 **Arabic** — Jisa  
 **Kazakh** — Icehot & Дух
 
-## Crown Sounds:## **ttt**
+## Crown Sounds:
+**ttt**
 
-## Crown Icon Design:## **SplashTree**`,
+## Crown Icon Design:
+**SplashTree**`,
                 updateTitle: "Update Logs",
                 updateText: "Keep track of new features, fixes and content added to Through The Wind.",
                 levelsTitle: "Levels",
@@ -67,7 +72,24 @@ const translations = {
                 versionText: "1.0.1.31.A",
                 aboutTitle: "Universe Line",
                 aboutText: "Universe Line is another journey in the same creative universe, built around music and visual exploration.",
-                detailText: ``,
+                detailText: `# Universe Line Production Staff
+
+## Project Leader:
+**FANGO**
+
+## Technical Support:
+**Dju de la va, Sushi, Sylva**
+
+## Other Support:
+**杨哥我来了, Neon**
+
+## Translators:
+
+**English** — FANGO  
+**Ukrainian** — FANGO  
+**Traditional Chinese** — 杨哥我来了 && Neon  
+**Simplified Chinese** — 杨哥我来了 && Neon  
+**Romanian** — FANGO`,
                 updateTitle: "Update Logs",
                 updateText: "See what has changed in Universe Line across its updates.",
                 levelsTitle: "Levels",
@@ -475,15 +497,18 @@ If the user does not agree to the terms of this Agreement, they must cease using
                 versionText: "1.1.0.107.A",
                 aboutTitle: "Through The Wind",
                 aboutText: "Through The Wind — ритмічна подорож, де рух, музика та візуальна атмосфера поєднуються в одному світі.",
-                detailText: `# Команда розробки Through The Wind
+                detailText: `# Команда Розробки Through The Wind
 
-## Керівник проєкту:## **FANGO**
+## Керівник Проєкту:
+**FANGO**
 
-## Технічна підтримка:## **Dju de la va, Sushi, SUNJY, NtyElias111, ReDark Technology, Bell, Marios1Gr, TCT,**
+## Технічна Підтримка:
+**Dju de la va, Sushi, SUNJY, NtyElias111, ReDark Technology, Bell, Sylva, TCT,**
 
-## Інша підтримка:## **Bezker, Lesede, 杨哥我来了, Neon, UnaiYT**
+## Інша Підтримка:
+**Bezker, Lesede, 杨哥我来了, Neon, UnaiYT**
 
-## Перекладачі:##
+## Перекладачі:
 
 **Англійська** — FANGO  
 **Українська** — FANGO  
@@ -502,9 +527,11 @@ If the user does not agree to the terms of this Agreement, they must cease using
 **Арабська** — Jisa  
 **Казахська** — Icehot & Дух  
 
-## Звук Корон:## **ttt**
+## Звук Корон:
+**ttt**
 
-## Дизайн Іконки Корон:## **SplashTree**`,
+## Дизайн Іконки Корон:
+**SplashTree**`,
                 updateTitle: "Журнал оновлень",
                 updateText: "Тут можна стежити за новими функціями, виправленнями та контентом Through The Wind.",
                 levelsTitle: "Рівні",
@@ -516,7 +543,24 @@ If the user does not agree to the terms of this Agreement, they must cease using
                 versionText: "1.0.1.31.A",
                 aboutTitle: "Universe Line",
                 aboutText: "Universe Line — ще одна подорож у тому самому творчому всесвіті, побудована навколо музики та візуального дослідження.",
-                detailText: ``,
+                detailText: `# Команда розробки Universe Line
+
+## Керівник Проєкту:
+**FANGO**
+
+## Технічна Підтримка:
+**Dju de la va, Sushi, Sylva**
+
+## Інша Підтримка:
+**杨哥我来了, Neon**
+
+## Перекладачі:
+
+**Англійська** — FANGO  
+**Українська** — FANGO  
+**Традиційна Китайська** — 杨哥我来了 && Neon  
+**Спрощена Китайська** — 杨哥我来了 && Neon  
+**Румунська** — FANGO`,
                 updateTitle: "Журнал оновлень",
                 updateText: "Переглядайте зміни, які з'являлися в Universe Line з оновленнями.",
                 levelsTitle: "Рівні",
@@ -926,13 +970,16 @@ FANGO може оновлювати цю Угоду у зв'язку з:
                 aboutText: "Through The Wind este o călătorie bazată pe ritm, în care mișcarea, muzica și atmosfera vizuală se întâlnesc.",
                 detailText: `# Echipa de producție Through The Wind
 
-## Lider de proiect:## **FANGO**
+## Lider De Proiect:
+**FANGO**
 
-## Suport tehnic:## **Dju de la va, Sushi, SUNJY, NtyElias111, ReDark Technology, Bell, Marios1Gr, TCT,**
+## Suport Tehnic:
+**Dju de la va, Sushi, SUNJY, NtyElias111, ReDark Technology, Bell, Sylva, TCT,**
 
-## Alt suport:## **Bezker, Lesede, 杨哥我来了, Neon, UnaiYT,**
+## Alt Suport:
+**Bezker, Lesede, 杨哥我来了, Neon, UnaiYT,**
 
-## Traducători:##
+## Traducători:
 
 **Engleză** — FANGO  
 **Ucraineană** — FANGO  
@@ -951,9 +998,11 @@ FANGO може оновлювати цю Угоду у зв'язку з:
 **Arabă** — Jisa  
 **Kazahă** — Icehot & Дух  
 
-## Sunetul Coroanei: **ttt**
+## Sunetul Coroanei:
+**ttt**
 
-## Designul Pictogramei Coroanei: **SplashTree**`,
+## Designul Pictogramei Coroanei:
+**SplashTree**`,
                 updateTitle: "Jurnal actualizări",
                 updateText: "Urmărește funcțiile noi, remedierile și conținutul adăugat în Through The Wind.",
                 levelsTitle: "Niveluri",
@@ -965,7 +1014,24 @@ FANGO може оновлювати цю Угоду у зв'язку з:
                 versionText: "1.0.1.31.A",
                 aboutTitle: "Universe Line",
                 aboutText: "Universe Line este o altă călătorie din același univers creativ, construită în jurul muzicii și explorării vizuale.",
-                detailText: ``,
+                detailText: `# Echipa De Producție Universe Line
+
+## Lider De Proiect:
+**FANGO**
+
+## Suport Tehnic:
+**Dju de la va, Sushi, Sylva**
+
+## Alt Suport:
+**杨哥我来了, Neon**
+
+## Traducători:
+
+**Engleză** — FANGO  
+**Ucraineană** — FANGO  
+**Chineză Tradițională** — 杨哥我来了 && Neon  
+**Chineză Simplificată** — 杨哥我来了 && Neon 
+**Română** — FANGO`,
                 updateTitle: "Jurnal actualizări",
                 updateText: "Vezi ce s-a schimbat în Universe Line de-a lungul actualizărilor.",
                 levelsTitle: "Niveluri",
