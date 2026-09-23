@@ -568,6 +568,28 @@ h3 {
     cursor: pointer;
 }
 
+.social-links {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+}
+
+.social-links a {
+    padding: 10px 16px;
+    border: 1px solid #292e38;
+    border-radius: 10px;
+    background: #10141c;
+    color: #aeb6c5;
+    text-decoration: none;
+    transition: 0.2s;
+}
+
+.social-links a:hover {
+    color: white;
+    border-color: #555;
+    transform: translateY(-2px);
+}
+
 @media (max-width: 700px) {
     .gallery {
         grid-template-columns: 1fr;
