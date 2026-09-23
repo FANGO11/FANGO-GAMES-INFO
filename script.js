@@ -28,14 +28,13 @@ const translations = {
                 aboutText: "Through The Wind is a rhythm-focused journey where movement, music and visual atmosphere come together.",
                 detailText: `# Through The Wind Production Staff
 
-## Project Leader:
-**FANGO**
+## Project Leader:## **FANGO**
 
-## Technical Support: **Dju de la va, Sushi, SUNJY, NtyElias111, ReDark Technology, Bell, Marios1Gr, TCT,**
+## Technical Support:## **Dju de la va, Sushi, SUNJY, NtyElias111, ReDark Technology, Bell, Marios1Gr, TCT,**
 
-## Other Support: **Bezker, Lesede, 杨哥我来了, Neon, UnaiYT**
+## Other Support:## **Bezker, Lesede, 杨哥我来了, Neon, UnaiYT**
 
-## Translators:
+## Translators:##
 
 **English** — FANGO  
 **Ukrainian** — FANGO  
@@ -54,9 +53,9 @@ const translations = {
 **Arabic** — Jisa  
 **Kazakh** — Icehot & Дух
 
-## Crown Sounds: **ttt**
+## Crown Sounds:## **ttt**
 
-## Crown Icon Design: **SplashTree**`,
+## Crown Icon Design:## **SplashTree**`,
                 updateTitle: "Update Logs",
                 updateText: "Keep track of new features, fixes and content added to Through The Wind.",
                 levelsTitle: "Levels",
@@ -85,8 +84,6 @@ const translations = {
                 levelsPlaceholder: "Level information will appear here as levels are added.",
                 eulaTitle: "End User License Agreement",
                 eulaText: `
-# END-USER LICENSE AGREEMENT (EULA)
-
 ## THROUGH THE WIND / UNIVERSE LINE
 
 **Rights Holder:** FANGO  
@@ -380,7 +377,7 @@ The grant of a license does not transfer ownership of any component of the Game 
 
 ---
 
-## 17 THIRD-PARTY MATERIALS AND COMPONENTS
+## 17. THIRD-PARTY MATERIALS AND COMPONENTS
 
 The Game may contain third-party software, graphics, audiovisual materials, and other materials. The rights to such materials belong to their respective rights holders and are used by FANGO in accordance with applicable licenses or other lawful grounds.
 
@@ -480,14 +477,13 @@ If the user does not agree to the terms of this Agreement, they must cease using
                 aboutText: "Through The Wind — ритмічна подорож, де рух, музика та візуальна атмосфера поєднуються в одному світі.",
                 detailText: `# Команда розробки Through The Wind
 
-## Керівник проєкту:
-**FANGO**
+## Керівник проєкту:## **FANGO**
 
-## Технічна підтримка: **Dju de la va, Sushi, SUNJY, NtyElias111, ReDark Technology, Bell, Marios1Gr, TCT,**
+## Технічна підтримка:## **Dju de la va, Sushi, SUNJY, NtyElias111, ReDark Technology, Bell, Marios1Gr, TCT,**
 
-## Інша підтримка: **Bezker, Lesede, 杨哥我来了, Neon, UnaiYT**
+## Інша підтримка:## **Bezker, Lesede, 杨哥我来了, Neon, UnaiYT**
 
-## Перекладачі:
+## Перекладачі:##
 
 **Англійська** — FANGO  
 **Українська** — FANGO  
@@ -506,9 +502,9 @@ If the user does not agree to the terms of this Agreement, they must cease using
 **Арабська** — Jisa  
 **Казахська** — Icehot & Дух  
 
-## Звуки Crown: **ttt**
+## Звук Корон:## **ttt**
 
-## Дизайн іконки Crown: **SplashTree**`,
+## Дизайн Іконки Корон:## **SplashTree**`,
                 updateTitle: "Журнал оновлень",
                 updateText: "Тут можна стежити за новими функціями, виправленнями та контентом Through The Wind.",
                 levelsTitle: "Рівні",
@@ -537,8 +533,6 @@ If the user does not agree to the terms of this Agreement, they must cease using
                 levelsPlaceholder: "Інформація про рівні з'являтиметься тут у міру їх додавання.",
                 eulaTitle: "Ліцензійна угода кінцевого користувача",
                 eulaText: `
-# ЛІЦЕНЗІЙНА УГОДА КІНЦЕВОГО КОРИСТУВАЧА (EULA)
-
 ## THROUGH THE WIND / UNIVERSE LINE
 
 **Правовласник:** FANGO  
@@ -832,7 +826,7 @@ FANGO може випускати:
 
 ---
 
-## 17 СТОРОННІ МАТЕРІАЛИ ТА КОМПОНЕНТИ
+## 17. СТОРОННІ МАТЕРІАЛИ ТА КОМПОНЕНТИ
 
 Гра може містити програмне забезпечення, графічні, аудіовізуальні та інші матеріали, розроблені або надані третіми особами. Права на такі матеріали належать відповідним правовласникам і використовуються FANGO відповідно до застосовних ліцензій або інших законних підстав.
 
@@ -932,14 +926,13 @@ FANGO може оновлювати цю Угоду у зв'язку з:
                 aboutText: "Through The Wind este o călătorie bazată pe ritm, în care mișcarea, muzica și atmosfera vizuală se întâlnesc.",
                 detailText: `# Echipa de producție Through The Wind
 
-## Lider de proiect:
-**FANGO**
+## Lider de proiect:## **FANGO**
 
-## Suport tehnic: **Dju de la va, Sushi, SUNJY, NtyElias111, ReDark Technology, Bell, Marios1Gr, TCT,**
+## Suport tehnic:## **Dju de la va, Sushi, SUNJY, NtyElias111, ReDark Technology, Bell, Marios1Gr, TCT,**
 
-## Alt suport: **Bezker, Lesede, 杨哥我来了, Neon, UnaiYT,**
+## Alt suport:## **Bezker, Lesede, 杨哥我来了, Neon, UnaiYT,**
 
-## Traducători:
+## Traducători:##
 
 **Engleză** — FANGO  
 **Ucraineană** — FANGO  
@@ -958,9 +951,9 @@ FANGO може оновлювати цю Угоду у зв'язку з:
 **Arabă** — Jisa  
 **Kazahă** — Icehot & Дух  
 
-## Sunete Crown: **ttt**
+## Sunetul Coroanei: **ttt**
 
-## Designul pictogramei Crown: **SplashTree**`,
+## Designul Pictogramei Coroanei: **SplashTree**`,
                 updateTitle: "Jurnal actualizări",
                 updateText: "Urmărește funcțiile noi, remedierile și conținutul adăugat în Through The Wind.",
                 levelsTitle: "Niveluri",
@@ -989,8 +982,6 @@ FANGO може оновлювати цю Угоду у зв'язку з:
                 levelsPlaceholder: "Informațiile despre niveluri vor apărea aici pe măsură ce acestea sunt adăugate.",
                 eulaTitle: "Acord de licență pentru utilizatorul final",
                 eulaText: `
-# ACORD DE LICENȚĂ PENTRU UTILIZATORUL FINAL (EULA)
-
 ## THROUGH THE WIND / UNIVERSE LINE
 
 **Titularul drepturilor:** FANGO  
@@ -1284,7 +1275,7 @@ Acordarea licenței nu transferă utilizatorului dreptul de proprietate asupra n
 
 ---
 
-## 17 MATERIALE ȘI COMPONENTE PROVENITE DE LA TERȚI
+## 17. MATERIALE ȘI COMPONENTE PROVENITE DE LA TERȚI
 
 Jocul poate conține software, materiale grafice, materiale audiovizuale și alte materiale furnizate sau dezvoltate de terți. Drepturile asupra acestor materiale aparțin titularilor de drepturi corespunzători și sunt utilizate de FANGO în conformitate cu licențele aplicabile sau cu alte temeiuri legale.
 
