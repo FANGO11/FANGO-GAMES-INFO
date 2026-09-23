@@ -1572,7 +1572,7 @@ const levels = {
         {
             name: "Deep In The Mountains",
             creator: "FANGO",
-            music: "Unknownく"
+            music: "Unknown"
         },
         {
             name: "Summer Days P4",
