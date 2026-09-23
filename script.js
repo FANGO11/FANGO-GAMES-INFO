@@ -1770,6 +1770,30 @@ function projectLevels(project) {
     `;
 }
 
+function projectGallery(project) {
+    const data = translations[currentLanguage].pages[project];
+    const galleryImages = galleries[project] || [];
+
+    return `
+        <section class="page">
+            <div class="section-heading">
+                <span class="eyebrow">${data.aboutTitle}</span>
+                <h2>${translations[currentLanguage].nav.gallery}</h2>
+                <p>${data.galleryText}</p>
+            </div>
+
+            <div class="gallery">
+                ${galleryImages.map((image, index) => `
+                    <button class="gallery-item">
+                        <img src="images/${image}"
+                             alt="Screenshot ${index + 1}">
+                    </button>
+                `).join("")}
+            </div>
+        </section>
+    `;
+}
+
 function navigate(page) {
     if (!page) return;
 
