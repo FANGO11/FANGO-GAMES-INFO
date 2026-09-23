@@ -1535,6 +1535,11 @@ const galleries = {
 const levels = {
     ttw: [
         {
+            name: "Level Name",
+            creator: "Creator",
+            music: "Music"
+        },
+        {
             name: "Beginning",
             creator: "FANGO",
             music: "Łukasz Michalski - The Beginning"
@@ -1702,6 +1707,11 @@ const levels = {
     ],
 
     ul: [
+        {
+            name: "Level Name",
+            creator: "Creator",
+            music: "Music"
+        },
         {
             name: "Begin",
             creator: "Bell & FANGO",
