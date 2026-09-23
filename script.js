@@ -1995,7 +1995,6 @@ function projectGallery(project) {
             <div class="section-heading">
                 <span class="eyebrow">${data.aboutTitle}</span>
                 <h2>${translations[currentLanguage].nav.gallery}</h2>
-                <p>${data.galleryText}</p>
             </div>
 
             <div class="gallery">
