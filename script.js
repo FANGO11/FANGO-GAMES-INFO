@@ -9,7 +9,8 @@ const translations = {
             eula: "EULA",
             about: "About",
             updateLogs: "Update Logs",
-            levels: "Levels"
+            levels: "Levels",
+            gallery: "Gallery"
         },
         footer: { made: "Made for the journey." },
         pages: {
@@ -503,7 +504,8 @@ If the user does not agree to the terms of this Agreement, they must cease using
             eula: "Ліцензійна угода",
             about: "Про гру",
             updateLogs: "Журнал оновлень",
-            levels: "Рівні"
+            levels: "Рівні",
+            gallery: "Галерея"
         },
         footer: { made: "Створено для цієї подорожі." },
         pages: {
@@ -997,7 +999,8 @@ FANGO може оновлювати цю Угоду у зв'язку з:
             eula: "Acord de licență",
             about: "Despre",
             updateLogs: "Jurnal actualizări",
-            levels: "Niveluri"
+            levels: "Niveluri",
+            gallery: "Galerie"
         },
         footer: { made: "Creat pentru această călătorie." },
         pages: {
@@ -1529,6 +1532,209 @@ const galleries = {
     ]
 };
 
+const levels = {
+    ttw: [
+        {
+            name: "Beginning",
+            creator: "FANGO",
+            music: "Łukasz Michalski - The Beginning"
+        },
+        {
+            name: "Starting",
+            creator: "FANGO",
+            music: "DJVI - Base After Base"
+        },
+        {
+            name: "Ume",
+            creator: "FANGO",
+            music: "Wisp X - Ume"
+        },
+        {
+            name: "Origin",
+            creator: "FANGO",
+            music: "Willim x Peter Li - Origin"
+        },
+        {
+            name: "Sky",
+            creator: "TechNewVideo",
+            music: "Reatch - Funk City"
+        },
+        {
+            name: "Spring",
+            creator: "FANGO",
+            music: "Kan R Gao - Going Home"
+        },
+        {
+            name: "Spring Day",
+            creator: "一只渣渣QAQ",
+            music: "邱有句 - 夏の喚く"
+        },
+        {
+            name: "Deep In The Mountains",
+            creator: "FANGO",
+            music: "Unknownく"
+        },
+        {
+            name: "Summer Days P4",
+            creator: "GP0108",
+            music: "傅许 - Summer Fantasy"
+        },
+        {
+            name: "Vinicunca Forest",
+            creator: "Manatite & NtyElias",
+            music: "Magic Journey - Vinicunca"
+        },
+        {
+            name: "Cloud",
+            creator: "NtyElias & GP0108",
+            music: "CheetahMobile - Cloud"
+        },
+        {
+            name: "Alley",
+            creator: "舞线Faded",
+            music: "CheetahMobile - Alley"
+        },
+        {
+            name: "Sunset",
+            creator: "舞线Faded",
+            music: "CMJ - Sunset"
+        },
+        {
+            name: "Wind Trail",
+            creator: "FANGO",
+            music: "万能日记 - 风的小径"
+        },
+        {
+            name: "Paradise Of Delicacy",
+            creator: "TCT",
+            music: "CheetahMobile - Delicacy Temptation"
+        },
+        {
+            name: "Plains",
+            creator: "TCT",
+            music: "Chronos - Plains Epic Remix"
+        },
+        {
+            name: "Elixir",
+            creator: "Doxfullsce",
+            music: "Lime - Elixir"
+        },
+        {
+            name: "Storm",
+            creator: "UnaiYT & FANGO",
+            music: "Azure - Storm Dance Remix"
+        },
+        {
+            name: "Pier In The Rain",
+            creator: "CXY-辰",
+            music: "鲨鲨 - 人鱼的眼泪"
+        },
+        {
+            name: "Time Machine",
+            creator: "FANGO",
+            music: "Waterflame - Time Machine"
+        },
+        {
+            name: "Winter Of Doubt",
+            creator: "Dju de la va",
+            music: "Boombit - Winter Of Doubt"
+        },
+        {
+            name: "Moment Of Peace",
+            creator: "Dju de la va",
+            music: "Olafur Arnalds - This Place Is A Shelter"
+        },
+        {
+            name: "Morning Light",
+            creator: "Dju de la va & Ariseform",
+            music: "Tobu - Mesmerize"
+        },
+        {
+            name: "Thermal Cube",
+            creator: "Assassin",
+            music: "FUNSHDD - ???"
+        },
+        {
+            name: "Earth Vein",
+            creator: "Tatajuo",
+            music: "Mark Petrie - Premonition"
+        },
+        {
+            name: "Under The Sea",
+            creator: "FANGO",
+            music: "Jannik - Under The Sea"
+        },
+        {
+            name: "By Your Side",
+            creator: "FANGO",
+            music: "Calvin Harries (Feat Tom Grennan) - By Your Side"
+        },
+        {
+            name: "Rock Thing",
+            creator: "FANGO",
+            music: "Creo - Rock Thing"
+        },
+        {
+            name: "Trap Crow",
+            creator: "Doxfullsce",
+            music: "Puru - TrapCrow"
+        },
+        {
+            name: "Anniversary",
+            creator: "FANGO",
+            music: "CheetahMobile - Mechanical Power"
+        },
+        {
+            name: "Rain",
+            creator: "FANGO",
+            music: "Rabpit - Rainy Memories (Edited)"
+        },
+        {
+            name: "DataErr0r",
+            creator: "NtyElias",
+            music: "Cosmograph - DataErr0r"
+        },
+        {
+            name: "Lone Traveler",
+            creator: "Ariseform",
+            music: "CelDro - Far Away"
+        }
+    ],
+
+    ul: [
+        {
+            name: "Begin",
+            creator: "Bell & FANGO",
+            music: "Unknown"
+        },
+        {
+            name: "Peaceful Stagnation",
+            creator: "MaxTB",
+            music: "Boombit - Peaceful Stagnation"
+        },
+        {
+            name: "All Falls Down P9",
+            creator: "FANGO",
+            music: "Alan Walker - All Falls Down"
+        },
+        {
+            name: "Monody P8",
+            creator: "FANGO",
+            music: "TheFatRat - Monody"
+        },
+        {
+            name: "Time Leaper P4",
+            creator: "FANGO",
+            music: "Hinkik - Time Leaper"
+        },
+        {
+            name: "E-Labyrinth P4",
+            creator: "FANGO",
+            music: "CheetahMobile - E-Labyrinth"
+        }
+    ]
+};
+
 let currentLanguage = getInitialLanguage();
 let currentPage = "introduction";
 
@@ -1755,6 +1961,8 @@ function projectUpdates(project) {
 function projectLevels(project) {
     const data = translations[currentLanguage].pages[project];
     const common = translations[currentLanguage].pages.common;
+    const projectLevels = levels[project] || [];
+
     return `
         <section class="page">
             <div class="section-heading">
@@ -1762,11 +1970,17 @@ function projectLevels(project) {
                 <h2>${data.levelsTitle}</h2>
                 <p>${data.levelsText}</p>
             </div>
+
             <div class="level-list">
-                <div class="level"><strong>Level 01</strong><span>${common.comingSoon}</span></div>
-                <div class="level"><strong>Level 02</strong><span>${common.comingSoon}</span></div>
-                <div class="level"><strong>Level 03</strong><span>${common.comingSoon}</span></div>
+                ${projectLevels.map(level => `
+                    <div class="level">
+                        <strong>${level.name}</strong>
+                        <span>${level.creator}</span>
+                        <span>${level.music}</span>
+                    </div>
+                `).join("")}
             </div>
+
             <div class="notice">${common.levelsPlaceholder}</div>
         </section>
     `;
