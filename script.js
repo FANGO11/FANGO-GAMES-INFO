@@ -1679,6 +1679,8 @@ function render(page) {
         "ul-updates": projectUpdates("ul"),
         "ttw-levels": projectLevels("ttw"),
         "ul-levels": projectLevels("ul"),
+        "ttw-gallery": projectGallery("ttw"),
+        "ul-gallery": projectGallery("ul"),
 
         template: `
             <section class="page">
