@@ -378,16 +378,27 @@ h3 {
 }
 
 .level {
-    display: flex;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
     align-items: center;
-    justify-content: space-between;
-    gap: 20px;
-    padding: 17px 20px;
-    background: var(--surface);
-    border: 1px solid var(--line);
-    border-radius: 13px;
+
+    padding: 20px 24px;
+    border: 1px solid #292e38;
+    border-radius: 16px;
+    background: #10141c;
 }
 
+.level strong {
+    text-align: left;
+}
+
+.level span:nth-child(2) {
+    text-align: center;
+}
+
+.level span:nth-child(3) {
+    text-align: right;
+}
 .level span {
     color: var(--muted);
 }
