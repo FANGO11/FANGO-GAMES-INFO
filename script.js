@@ -62,7 +62,20 @@ const translations = {
 ## Crown Icon Design:
 **SplashTree**`,
                 updateTitle: "Update Logs",
-                updateText: "Keep track of new features, fixes and content added to Through The Wind.",
+                updateText: `# 1.1.0 A
+
+- Added New Levels: DataErr0r, Lone Traveler.
+- Added Slither Skin.
+- Changed GUI: Main, Settings, Skins, Achievement, Revive, Game Over.
+- Added Login Via OAuth.
+- Removed: Login Via Email And Password, Orientation Control And Camera Particles.
+- From Now Water Reflection And Water Refraction are working.
+- Added Resolution For Andrroid And Dynamic Resolution.
+- Returned Camera Projection Settings.
+- Added DLRS GAS Game Archive Control.
+- Added 10 New Languages: Romanian, Vietnamese, Indonesian, Filipino, Thai, Belarussian. German, Greek, Arabian, Kazakh.
+- Changed Achievements System. In Game Now 132 Achievements: Per Level (Complete Level On 100%, Collect 10 Diamonds, Collect 3 Crowns), And Special Achievements.
+- Optimized Menu And Levels.`,
                 levelsTitle: "Levels",
                 levelsText: "Explore the levels currently available in Through The Wind.",
                 templateTitle: "Template",
@@ -91,7 +104,13 @@ const translations = {
 **Simplified Chinese** — 杨哥我来了 && Neon  
 **Romanian** — FANGO`,
                 updateTitle: "Update Logs",
-                updateText: "See what has changed in Universe Line across its updates.",
+                updateText: `# V 1.0.1 A
+
+- Added a new level: **Peaceful Stagnation**.
+- Added **Keymapping** and new languages.
+- Made some changes to the **UI**.
+- Optimized the game.
+- Fixed some bugs.`,
                 levelsTitle: "Levels",
                 levelsText: "Explore the levels and journeys available in Universe Line."
             },
@@ -533,7 +552,20 @@ If the user does not agree to the terms of this Agreement, they must cease using
 ## Дизайн Іконки Корон:
 **SplashTree**`,
                 updateTitle: "Журнал оновлень",
-                updateText: "Тут можна стежити за новими функціями, виправленнями та контентом Through The Wind.",
+                updateText: `# 1.1.0 A
+
+- Додано нові рівні: **DataErr0r**, **Самотній Мандрівник**.
+- Додано скін **Черв'як**.
+- Змінено GUI: **Головне Меню, Налаштування, Скіни, Досягнення, Відродження, Кінець Гри**.
+- Додано вхід через **OAuth**.
+- Видалено: **Вхід через електронну пошту та пароль, керування орієнтацією та частинки камери**.
+- Відтепер **відбиття води та заломлення води** працюють.
+- Додано налаштування розширення для **Android** та **динамічне розширення**.
+- Повернуто налаштування **проєкції камери**.
+- Додано **DLRS GAS Game Archive Control**.
+- Додано 10 нових мов: **румунську, в'єтнамську, індонезійську, філіппінську, тайську, білоруську, німецьку, грецьку, арабську та казахську**.
+- Змінено систему досягнень. Тепер у грі **132 досягнення**: для кожного рівня (**завершити рівень на 100%, зібрати 10 діамантів, зібрати 3 корони**) та спеціальні досягнення.
+- Оптимізовано **меню та рівні**.`,
                 levelsTitle: "Рівні",
                 levelsText: "Переглядайте рівні, доступні у Through The Wind.",
                 templateTitle: "Шаблон",
@@ -562,7 +594,13 @@ If the user does not agree to the terms of this Agreement, they must cease using
 **Спрощена Китайська** — 杨哥我来了 && Neon  
 **Румунська** — FANGO`,
                 updateTitle: "Журнал оновлень",
-                updateText: "Переглядайте зміни, які з'являлися в Universe Line з оновленнями.",
+                updateText: `# V 1.0.1 A
+
+- Додано новий рівень: **Peaceful Stagnation**.
+- Додано **налаштування клавіш** та нові мови.
+- Внесено деякі зміни до **інтерфейсу**.
+- Оптимізовано гру.
+- Виправлено деякі помилки.`,
                 levelsTitle: "Рівні",
                 levelsText: "Переглядайте рівні та подорожі Universe Line."
             },
@@ -1004,7 +1042,20 @@ FANGO може оновлювати цю Угоду у зв'язку з:
 ## Designul Pictogramei Coroanei:
 **SplashTree**`,
                 updateTitle: "Jurnal actualizări",
-                updateText: "Urmărește funcțiile noi, remedierile și conținutul adăugat în Through The Wind.",
+                updateText: `# 1.1.0 A
+
+- Au fost adăugate niveluri noi: **DataErr0r**, **Călător Singuratic**.
+- A fost adăugat skin-ul **Vierme**.
+- Interfața GUI a fost modificată: **Meniu principal, Setări, Skin-uri, Realizări, Reînviere, Joc Încheiat**.
+- A fost adăugată autentificarea prin **OAuth**.
+- Au fost eliminate: **autentificarea prin e-mail și parolă, controlul orientării și particulele camerei**.
+- Începând de acum, **reflexia apei și refracția apei** funcționează.
+- Au fost adăugate setările de rezoluție pentru **Android** și **rezoluția dinamică**.
+- Au fost reintroduse setările pentru **proiecția camerei**.
+- A fost adăugat **DLRS GAS Game Archive Control**.
+- Au fost adăugate 10 limbi noi: **română, vietnameză, indoneziană, filipineză, thailandeză, belarusă, germană, greacă, arabă și kazahă**.
+- Sistemul de realizări a fost modificat. Acum jocul are **132 de realizări**: pentru fiecare nivel (**finalizarea nivelului la 100%, colectarea a 10 diamante, colectarea a 3 coroane**) și realizări speciale.
+- Meniul și nivelurile au fost optimizate.`,
                 levelsTitle: "Niveluri",
                 levelsText: "Descoperă nivelurile disponibile în Through The Wind.",
                 templateTitle: "Șablon",
@@ -1033,7 +1084,13 @@ FANGO може оновлювати цю Угоду у зв'язку з:
 **Chineză Simplificată** — 杨哥我来了 && Neon 
 **Română** — FANGO`,
                 updateTitle: "Jurnal actualizări",
-                updateText: "Vezi ce s-a schimbat în Universe Line de-a lungul actualizărilor.",
+                updateText: `# V 1.0.1 A
+
+- A fost adăugat un nivel nou: **Peaceful Stagnation**.
+- Au fost adăugate **configurarea tastelor** și limbi noi.
+- Au fost efectuate unele modificări ale **interfeței**.
+- Jocul a fost optimizat.
+- Au fost remediate unele erori.`,
                 levelsTitle: "Niveluri",
                 levelsText: "Descoperă nivelurile și călătoriile disponibile în Universe Line."
             },
@@ -1627,7 +1684,7 @@ function projectUpdates(project) {
             <div class="section-heading">
                 <span class="eyebrow">${data.aboutTitle}</span>
                 <h2>${data.updateTitle}</h2>
-                <p>${data.updateText}</p>
+                <div class="eula-content"><p>${markdownToHtml(data.updateText)}</p></div>
             </div>
             <div class="notice">${translations[currentLanguage].pages.common.noUpdates}</div>
         </section>
