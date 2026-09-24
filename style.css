@@ -586,8 +586,11 @@ h3 {
 }
 
 .social-links img {
-    width: 22px;
-    height: 22px;
+    max-width: 30px;
+    max-height: 30px;
+    width: auto;
+    height: auto;
+    display: block;
 }
 
 .social-links a:hover {
