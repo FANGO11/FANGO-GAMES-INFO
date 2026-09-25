@@ -11,7 +11,7 @@ const translations = {
             updateLogs: "Update Logs",
             levels: "Levels",
             gallery: "Gallery",
-            socialMedia: "Social Media"
+            social: "Social Media"
         },
         footer: { made: "Made for the journey." },
         pages: {
@@ -507,7 +507,7 @@ If the user does not agree to the terms of this Agreement, they must cease using
             updateLogs: "Журнал оновлень",
             levels: "Рівні",
             gallery: "Галерея",
-            socialMedia: "Соцмережі"
+            social: "Соцмережі"
         },
         footer: { made: "Створено для цієї подорожі." },
         pages: {
@@ -1003,7 +1003,7 @@ FANGO може оновлювати цю Угоду у зв'язку з:
             updateLogs: "Jurnal actualizări",
             levels: "Niveluri",
             gallery: "Galerie",
-            socialMedia: "Rețele Sociale"
+            social: "Rețele Sociale"
         },
         footer: { made: "Creat pentru această călătorie." },
         pages: {
