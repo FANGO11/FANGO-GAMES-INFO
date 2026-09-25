@@ -597,6 +597,48 @@ h3 {
     transform: translateY(-2px);
 }
 
+.social-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 20px;
+}
+
+.social-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    min-width: 120px;
+    padding: 14px 20px;
+
+    background: #0f141d;
+    border: 1px solid #252c38;
+    border-radius: 18px;
+
+    color: #aeb7c7;
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: 500;
+
+    transition:
+        background 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease,
+        transform 0.2s ease;
+}
+
+.social-button:hover {
+    background: #171d27;
+    border-color: #303846;
+    color: #ffffff;
+    transform: translateY(-1px);
+}
+
+.social-button:active {
+    transform: translateY(0);
+}
+
 @media (max-width: 700px) {
     .gallery {
         grid-template-columns: 1fr;
