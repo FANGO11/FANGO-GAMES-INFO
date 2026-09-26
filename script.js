@@ -136,7 +136,7 @@ const translations = {
 **Rights Holder:** FANGO  
 **Product:** Through The Wind / Universe Line  
 **EULA Version:** 1.0  
-**Effective Date:** September 22, 2026
+**Effective Date:** September 26, 2026
 
 ---
 
@@ -632,7 +632,7 @@ If the user does not agree to the terms of this Agreement, they must cease using
 **Правовласник:** FANGO  
 **Продукт:** Through The Wind / Universe Line  
 **Версія EULA:** 1.0  
-**Дата набрання чинності:** 22 вересня 2026 року
+**Дата набрання чинності:** 26 Вересня 2026 року
 
 ---
 
@@ -1128,7 +1128,7 @@ FANGO може оновлювати цю Угоду у зв'язку з:
 **Titularul drepturilor:** FANGO  
 **Produs:** Through The Wind / Universe Line  
 **Versiunea EULA:** 1.0  
-**Data intrării în vigoare:** 22 septembrie 2026
+**Data intrării în vigoare:** 26 Septembrie 2026
 
 ---
 
