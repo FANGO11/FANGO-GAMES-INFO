@@ -25,7 +25,7 @@ const translations = {
                 text: "This website is the central home for Through The Wind and Universe Line. Choose a project above to discover its world."
             },
             ttw: {
-                versionText: "1.1.0.107.A",
+                versionText: "1.1.0.110.A",
                 aboutTitle: "Through The Wind",
                 aboutText: "Through The Wind is a rhythm-focused journey where movement, music and visual atmosphere come together.",
                 detailText: `# Through The Wind Production Staff
@@ -521,7 +521,7 @@ If the user does not agree to the terms of this Agreement, they must cease using
                 text: "Цей сайт є центральним місцем для Through The Wind та Universe Line. Виберіть проєкт вище, щоб відкрити його світ."
             },
             ttw: {
-                versionText: "1.1.0.107.A",
+                versionText: "1.1.0.110.A",
                 aboutTitle: "Through The Wind",
                 aboutText: "Through The Wind — ритмічна подорож, де рух, музика та візуальна атмосфера поєднуються в одному світі.",
                 detailText: `# Команда Розробки Through The Wind
@@ -1017,7 +1017,7 @@ FANGO може оновлювати цю Угоду у зв'язку з:
                 text: "Acest site este centrul pentru Through The Wind și Universe Line. Alege un proiect de mai sus pentru a-i descoperi lumea."
             },
             ttw: {
-                versionText: "1.1.0.107.A",
+                versionText: "1.1.0.110.A",
                 aboutTitle: "Through The Wind",
                 aboutText: "Through The Wind este o călătorie bazată pe ritm, în care mișcarea, muzica și atmosfera vizuală se întâlnesc.",
                 detailText: `# Echipa de producție Through The Wind
